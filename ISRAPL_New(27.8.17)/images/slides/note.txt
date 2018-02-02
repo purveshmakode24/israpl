@@ -1,0 +1,1 @@
+If you want to replace the image with other one just simply rename the images as same as M.history1, M.history2, or M.history3 and remove the replaced one! 
