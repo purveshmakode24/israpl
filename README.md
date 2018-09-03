@@ -3,6 +3,9 @@ It's a simple website  gives you brief information about 'Indian Social Reformer
 
 ### Screenshots
 ![home](images/screenshots/home.png)
+
 ![history](images/screenshots/history.png)
+
 ![home](images/screenshots/leaders.png)
+
 ![home](images/screenshots/reformers.png)
